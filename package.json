@@ -43,12 +43,12 @@
     "eslint-plugin-node": "^8.0.0",
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
-    "ipfs-http-client": "^29.1.1",
+    "ipfs-http-client": "^60.0.1",
     "spawn-command": "0.0.2-1",
     "watch": "^1.0.2"
   },
   "dependencies": {
-    "@graphprotocol/graph-cli": "0.18.0",
+    "@graphprotocol/graph-cli": "0.98.1",
     "@graphprotocol/graph-ts": "0.18.0",
     "@types/node": "^10.14.4",
     "apollo-client": "^2.4.5",
